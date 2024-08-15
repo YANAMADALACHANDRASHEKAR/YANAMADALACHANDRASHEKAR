@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanamadalachandrashekar&label=Profile%20views&color=0e75b6&style=flat" alt="yanamadalachandrashekar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://yanamadalachandrashekar.github.io/chandu.github.io/](https://yanamadalachandrashekar.github.io/chandu.github.io/)
+- 👨‍💻 All of my projects are available at [https://yanamadalachandrashekar.github.io/Portfolio/](https://yanamadalachandrashekar.github.io/Portfolio/)
 
 - 💬 Ask me about **Python**
 
