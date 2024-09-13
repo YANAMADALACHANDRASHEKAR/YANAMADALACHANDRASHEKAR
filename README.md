@@ -28,3 +28,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanamadalachandrashekar&show_icons=true&locale=en" alt="yanamadalachandrashekar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanamadalachandrashekar&" alt="yanamadalachandrashekar" /></p>
+
+
+## My Stats :chart_with_upwards_trend:
+
+![](https://github.com/swethavipparla/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/swethavipparla/github-stats/blob/master/generated/languages.svg)
