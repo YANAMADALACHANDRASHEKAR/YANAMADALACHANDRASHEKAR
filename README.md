@@ -32,5 +32,5 @@
 
 ## My Stats :chart_with_upwards_trend:
 
-![](https://github.com/swethavipparla/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/swethavipparla/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/yanamdalachandrashekar/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/yanamadalachandrashekar/github-stats/blob/master/generated/languages.svg)
